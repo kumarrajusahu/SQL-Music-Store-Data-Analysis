@@ -29,10 +29,9 @@ The database consists of the following tables:
 
 ## ⚙️ Tech Stack  
 
-- **SQL (MySQL / SQLite / PostgreSQL)**
+- **SQL Server**
 - **DBMS Concepts**
 - **Data Analysis using SQL**
-- Optional: Excel / Power BI for visualization  
 
 ---
 
@@ -62,7 +61,6 @@ The database consists of the following tables:
 1. Import the SQL file into your database  
 2. Load all CSV files into respective tables  
 3. Run SQL queries for analysis  
-4. (Optional) Connect with Power BI / Excel for visualization  
 
 ---
 
@@ -71,7 +69,7 @@ The database consists of the following tables:
 - SQL Joins (INNER, LEFT, RIGHT)  
 - Aggregations (SUM, COUNT, AVG)  
 - Subqueries & CTEs  
-- Window Functions (if used)  
+- Window Functions 
 - Data Cleaning & Transformation  
 - Business Insight Generation  
 
