@@ -59,7 +59,7 @@ The database consists of the following tables:
 
 ## 📁 Project Structure  
 
-
+---
 📦 Online-Music-Store-Analysis
 ┣ 📜 online_music_store.sql
 ┣ 📂 datasets
@@ -80,7 +80,7 @@ The database consists of the following tables:
 
 
 
-
+---
 
 
 ---
