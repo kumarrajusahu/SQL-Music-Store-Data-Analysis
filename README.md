@@ -58,3 +58,69 @@ The database consists of the following tables:
 ---
 
 ## 📁 Project Structure  
+
+
+📦 Online-Music-Store-Analysis
+┣ 📜 online_music_store.sql
+┣ 📂 datasets
+┃ ┣ album.csv
+┃ ┣ artist.csv
+┃ ┣ customer.csv
+┃ ┣ employee.csv
+┃ ┣ genre.csv
+┃ ┣ invoice.csv
+┃ ┣ invoice_line.csv
+┃ ┣ media_type.csv
+┃ ┣ playlist.csv
+┃ ┣ playlist_track.csv
+┃ ┗ track.csv
+┣ 📷 schema_diagram.png
+┗ 📄 README.md
+
+
+
+
+
+
+
+---
+
+## 🚀 How to Use  
+
+1. Import the SQL file into your database  
+2. Load all CSV files into respective tables  
+3. Run SQL queries for analysis  
+4. (Optional) Connect with Power BI / Excel for visualization  
+
+---
+
+## 📌 Key Skills Demonstrated  
+
+- SQL Joins (INNER, LEFT, RIGHT)  
+- Aggregations (SUM, COUNT, AVG)  
+- Subqueries & CTEs  
+- Window Functions (if used)  
+- Data Cleaning & Transformation  
+- Business Insight Generation  
+
+---
+
+## 🎯 Project Outcome  
+
+This project demonstrates the ability to:  
+- Work with **real-world relational databases**  
+- Perform **data-driven analysis using SQL**  
+- Convert raw data into **actionable insights**  
+
+---
+
+## 📬 Contact  
+
+**Raju Kumar Sahu**  
+📧 rsah77598@gmail.com  
+🔗 GitHub: https://github.com/kumarrajusahu  
+🔗 LinkedIn: https://www.linkedin.com/in/raju-kumar-sahu-data-analyst/  
+
+---
+
+## ⭐ If you found this project useful, don’t forget to star the repo!
