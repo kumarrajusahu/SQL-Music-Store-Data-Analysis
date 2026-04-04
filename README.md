@@ -57,59 +57,6 @@ The database consists of the following tables:
 
 ---
 
-## 📁 Project Structure  
-
----
-📦 Online-Music-Store-Analysis
-┣ 📜 online_music_store.sql
-┣ 📂 datasets
-┃ ┣ album.csv
-┃ ┣ artist.csv
-┃ ┣ customer.csv
-┃ ┣ employee.csv
-┃ ┣ genre.csv
-┃ ┣ invoice.csv
-┃ ┣ invoice_line.csv
-┃ ┣ media_type.csv
-┃ ┣ playlist.csv
-┃ ┣ playlist_track.csv
-┃ ┗ track.csv
-┣ 📷 schema_diagram.png
-┗ 📄 README.md
-
-
-
-
----
-
-
-
-
-
-
-
-Online-Music-Store-Analysis
-│
-├── online_music_store.sql
-│
-├── datasets
-│ ├── album.csv
-│ ├── artist.csv
-│ ├── customer.csv
-│ ├── employee.csv
-│ ├── genre.csv
-│ ├── invoice.csv
-│ ├── invoice_line.csv
-│ ├── media_type.csv
-│ ├── playlist.csv
-│ ├── playlist_track.csv
-│ └── track.csv
-│
-├── schema_diagram.png
-└── README.md
-
----
-
 ## 🚀 How to Use  
 
 1. Import the SQL file into your database  
@@ -142,7 +89,7 @@ This project demonstrates the ability to:
 ## 📬 Contact  
 
 **Raju Kumar Sahu**  
-📧 rsah77598@gmail.com  
+📧 rk.sahu.contact@gmail.com  
 🔗 GitHub: https://github.com/kumarrajusahu  
 🔗 LinkedIn: https://www.linkedin.com/in/raju-kumar-sahu-data-analyst/  
 
