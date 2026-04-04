@@ -83,6 +83,31 @@ The database consists of the following tables:
 ---
 
 
+
+
+
+
+
+Online-Music-Store-Analysis
+│
+├── online_music_store.sql
+│
+├── datasets
+│ ├── album.csv
+│ ├── artist.csv
+│ ├── customer.csv
+│ ├── employee.csv
+│ ├── genre.csv
+│ ├── invoice.csv
+│ ├── invoice_line.csv
+│ ├── media_type.csv
+│ ├── playlist.csv
+│ ├── playlist_track.csv
+│ └── track.csv
+│
+├── schema_diagram.png
+└── README.md
+
 ---
 
 ## 🚀 How to Use  
